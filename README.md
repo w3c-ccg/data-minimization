@@ -253,7 +253,7 @@ Bar->Janet: Have Loyalty Card
 
 ## Crypto Details
 
-Below is some of the detailed mathematics involved in issuing a verifiable credential as implemented by Sovrin, a non-profit organization dedicated to managing a decentralized, public network for the purposes of self-sovereign identity. The flow uses 
+Below is some of the detailed mathematics involved in issuing a verifiable credential as implemented by Sovrin, a non-profit organization dedicated to managing a decentralized, public network for the purposes of self-sovereign identity. 
 
 ### Issuer setup
 The following setup is a necessary precursor to issuing a privacy-preserving credential.
