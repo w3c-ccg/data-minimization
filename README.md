@@ -360,7 +360,7 @@ The Sovrin team shares additional information and working code at the following 
 
 
 # References:
-* W3C Credentials COmmunity Group Home Page, Link: (https://www.w3.org/community/credentials/)
+* W3C Credentials Community Group Home Page, Link: (https://www.w3.org/community/credentials/)
 * [Data Minimization and Selective Disclosure Repo] Link: (https://github.com/w3c-ccg/data-minimization)
 * Camenisch, Lysyanskaya. [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation] (http://www.cs.ru.nl/~jhh/pub/secsem/camenish2001idemix-clean.pdf)
 * 2010 Pfitzmann, Hansen. [A terminology for talking about privacy by data minimization: Anonymity, Unlinkability, Undetectability, Unobservability, Pseudonymity, and Identity Management] Link: (https://www.researchgate.net/publication/234720523_A_terminology_for_talking_about_privacy_by_data_minimization_Anonymity_Unlinkability_Undetectability_Unobservability_Pseudonymity_and_Identity_Management)
