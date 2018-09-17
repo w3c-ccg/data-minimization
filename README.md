@@ -46,7 +46,7 @@ Data minimization is enacted primarily by policy decisions taken by stakeholders
 Data minimization policies impact selective disclosure, the next privacy enhancement.
 
 ## Selective disclosure
-Selective disclosure is a means by which data minimization can be achieved. It is the ability of an individual to granularly decide what information to share. 
+Selective disclosure is the ability of an individual to granularly decide what information to share. 
 
 Stakeholders in the credentials ecosystem enable selective disclosure capabilities in the following ways.
 * Credential issuers format the credential and its attributes in such a way as to enable selective disclosure. Like in the strategy of data minimization, they may issue multiple, related, granular sub-credentials. Each attribute and the overall credential may be formatted to support cryptography, a capability described in more detail below. 
