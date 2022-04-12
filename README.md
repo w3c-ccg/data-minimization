@@ -2,11 +2,12 @@ Engineering Privacy for Verified Credentials:
 In Which We Describe Data Minimization, Selective Disclosure, and Progressive Trust
 ==============================
 
-By Lionel Wolberger
+Editor: Lionel Wolberger
 
-Contributors:
+Authors:
 * Brent Zundel, Evernym/Sovrin
 * Irene Hernandez, Independent
+* Christopher Allen, Independent
 * Zachary Larson, Independent
 * Katryna Dow, Meeco
 
